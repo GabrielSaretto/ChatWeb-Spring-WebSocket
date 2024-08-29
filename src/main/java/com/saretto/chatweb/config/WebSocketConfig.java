@@ -1,4 +1,4 @@
-package com.saretto.chatweb;
+package com.saretto.chatweb.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
