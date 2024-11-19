@@ -1,6 +1,6 @@
 package com.saretto.chatweb.config;
 
-import com.saretto.chatweb.chat.ChatMessage;
+import com.saretto.chatweb.model.ChatMessage;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;

@@ -1,4 +1,4 @@
-package com.saretto.chatweb.chat;
+package com.saretto.chatweb.model;
 
 import lombok.*;
 
